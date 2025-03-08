@@ -1,0 +1,9 @@
+python-telegram-bot 
+requests
+instagrapi
+moviepy
+pillow
+imageio
+imageio[ffmpeg]
+numpy
+tqdm
