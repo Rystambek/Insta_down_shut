@@ -1,7 +1,7 @@
 import requests
 import os
 
-url = 'https://instadownloderbot.pythonanywhere.com/webhook'
+url = 'https://rustambekinstad.pythonanywhere.com//webhook'
 
 Token = '7604363956:AAH9UwqqZ-1SBuIzTJeur_lQiCh6rJOJ2tY'
 
